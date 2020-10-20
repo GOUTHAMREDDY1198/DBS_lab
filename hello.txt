@@ -1,4 +1,2 @@
 Hello there !!!
 new branch
-
-Changed in b1
